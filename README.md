@@ -1,1 +1,1 @@
-# new-repo3
+# NextJs-SocialMedia-Application
